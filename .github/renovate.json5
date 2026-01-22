@@ -5,7 +5,7 @@
   ],
   labels: [
     'kind/enhancement',
-    'reviewed/ok-to-test',
+    'ok-to-test',
   ],
   postUpdateOptions: [
     'gomodTidy',
